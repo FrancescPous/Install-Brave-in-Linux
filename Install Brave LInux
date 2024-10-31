@@ -2,7 +2,7 @@ Install Brave Linux
 
 PAS 2: COMANDES
 
-1. sudo apt update
+1. sudo apt update.md
 
 2. sudo apt install apt-transport-https curl
 
