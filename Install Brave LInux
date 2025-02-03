@@ -1,7 +1,7 @@
 Install Brave Linux
 
 PAS 1: COMANDES
-'''bash
+
 1. sudo apt update
 
 2. sudo apt install apt-transport-https curl
@@ -22,3 +22,8 @@ PAS 3: INICIAR BRAVE
 Dintre de la terminal escribirem la seguent comanda
 
 brave-browser
+
+```html
+<pre>
+  <code>git clone hola hola </code>
+</pre>
