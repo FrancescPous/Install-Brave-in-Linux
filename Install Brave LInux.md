@@ -1,6 +1,7 @@
 Install Brave Linux
 
 PAS 1: COMANDES
+
 1:
    ```
  sudo apt update
